@@ -2,7 +2,7 @@
 A demonstration of the Avalonia Framework. This is my completed rendition of the Music Store sample provided as a learning tool for the framework. The tutorial can be found at the [Avalonia UI Website](https://docs.avaloniaui.net).
 
 # Components
-C#
+**C#**
   * Coded in standard C#
 
 AXAML
